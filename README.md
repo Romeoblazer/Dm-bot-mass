@@ -1,7 +1,7 @@
 # discord-mass-dm
 A FREE SIMPLE VERSION
 
-DEV > https://t.me/senseicodes
+DEV > https://t.me/geniustechie
 
 
 ![discorddmpic](https://user-images.githubusercontent.com/125784563/226923779-20710cbf-ae72-43cc-9f76-33853bd78e29.jpeg)
@@ -9,7 +9,7 @@ DEV > https://t.me/senseicodes
 
 THIS IS THE SIMPLEST VERSION
 
-FOR SOLID VERSION > https://t.me/senseicodes
+FOR SOLID VERSION > https://t.me/geniustechie
 
 
 # USAGE
@@ -27,5 +27,5 @@ FOR SOLID VERSION > https://t.me/senseicodes
 
 FOR FURTHER GUIDES OR OFFERS
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
