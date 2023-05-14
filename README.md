@@ -30,4 +30,4 @@ FOR FURTHER GUIDES OR OFFERS
 MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 # KEYWORD
-how to send mass messgaes to discord members discord mass dm tool discord mass joiner tool discord shilling services discord shilling tool
+how to send mass messgaes to discord members discord mass dm tool discord mass joiner tool discord shilling services discord shilling tool discord mass dm
