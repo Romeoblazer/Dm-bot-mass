@@ -9,7 +9,7 @@ DEV > https://t.me/+r4q42DHGePA5ZTJk
 
 THIS IS THE SIMPLEST VERSION
 
-FOR SOLID VERSION > https://t.me/+r4q42DHGePA5ZTJk
+FOR BETA VERSION > https://t.me/+r4q42DHGePA5ZTJk
 
 
 # USAGE
