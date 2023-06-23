@@ -1,7 +1,9 @@
 # discord-mass-dm
 A FREE SIMPLE VERSION
 
-DEV > https://t.me/+r4q42DHGePA5ZTJk
+FOR MASS DM GIGS
+
+MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 
 ![discorddmpic](https://user-images.githubusercontent.com/125784563/226923779-20710cbf-ae72-43cc-9f76-33853bd78e29.jpeg)
