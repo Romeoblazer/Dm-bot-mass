@@ -39,3 +39,4 @@ discord bulk message tool
 discord mass dm
 disord tool
 dmdgo
+mass dm bulk discord server message
